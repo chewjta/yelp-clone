@@ -1,4 +1,4 @@
-# Snapchat Clone
+# Yelp Clone
 
 ## Content Page
 
@@ -27,6 +27,7 @@ To check it out, here's the link: [Yelp Clone](http://18.189.17.36/)
 ### Technologies
 
 Tech stacks used: ReactJS, Express, NodeJS, PostgreSQL
+
 Hosted using : AWS EC2 + Ubuntu VM(NGINX/PM2)
 
 ---
